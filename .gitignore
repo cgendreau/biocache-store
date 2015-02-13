@@ -1,4 +1,7 @@
+*.iml
+target
 
+.idea
 release.properties
 
 src/main/resources/git.properties
